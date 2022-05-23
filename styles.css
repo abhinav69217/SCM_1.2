@@ -25,7 +25,7 @@ body{
 }
 .navbar{
     display: flex;
-    flex-wrap: wrap; /*Allows the children inside a flex container to wrap down onto the next line if there is not enough space.*/
+     flex-wrap: wrap; /*Allows the children inside a flex container to wrap down onto the next line if there is not enough space. */
     align-items: center; /*Centers the children of a flex container vertically.*/
     justify-content: space-between; /*Adds space between each child of a flex container.*/
     background-color: #fff;
